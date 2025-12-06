@@ -94,8 +94,5 @@
 - ⚓ **Port Optimization System**  
   Digital twin of port logistics with AI-driven scheduling and simulation  
 
-- 🎓 **University Projects**  
-  Systems 1 assembly game, OCaml functional programming, algorithms, data structures, and more  
-
 ---
 
