@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+  
 ## 🧑‍💻 About Me
 
 - 🎓 BSc **Computer Science** student @ **University of Primorska (UP FAMNIT)**
