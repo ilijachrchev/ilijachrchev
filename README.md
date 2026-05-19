@@ -56,12 +56,13 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🌊 **Underwater Visibility Predictor** *(FAMNIT Hackathon 2026 · 2nd Place)* | End to end underwater visibility prediction system combining XGBoost environmental modeling, two CLIP based image scorers, a full custom sensor station design, and 7 Copernicus Marine satellite datasets with active deployment planned via YouR Sea | Python, JavaScript, FastAPI, React, XGBoost, PyTorch, Firebase |
+| 💌 **SendWise-AI** *(SaaS)* | AI-powered chatbot and email automation platform focused on customer communication workflows | TypeScript, JavaScript, React, Next.js, Node.js |
 | 🔍 **AI-Detective** *(DragonHack 2026)* | Crime scene analysis assistant using OAK-D camera for spatial scanning with depth data, AI-driven questioning for probability analysis, and frame annotation for evidence documentation | Python, JavaScript, React, FastAPI, Gemini API, DepthAI |
 | 📨 **ReachLog** | Job outreach tracker with skill-gap analytics, multi-platform internship scraper, Chrome extension for LinkedIn outreach automation, and email parser | C#, TypeScript, .NET, Angular, PostgreSQL, Docker |
 | 🪙 **NFT Wash Trading Detection** | Graph-based system for detecting wash trading in NFT markets, evaluating sequential, parallel, and distributed processing strategies on transaction data | Java, MPJ |
-| 💌 **SendWise-AI** *(SaaS)* | AI-powered chatbot and email automation platform focused on customer communication workflows | TypeScript, JavaScript, React, Next.js, Node.js |
-| ⚓ **Port Optimization** *(GDG Hackathon)* | Real-time port operations system modeling berth allocation, vessel queuing, and traffic flow under realistic operational constraints; led a team of four | Python, C#, JavaScript, .NET, React, SQL, Unity |
 | 🌐 **Portfolio** | Polished responsive portfolio with adaptive theming and reusable component architecture — [ilijachrchev.com](https://ilijachrchev.com) | JavaScript, React, Next.js |
+| ⚓ **Port Optimization** *(GDG Hackathon)* | Real-time port operations system modeling berth allocation, vessel queuing, and traffic flow under realistic operational constraints; led a team of four | Python, C#, JavaScript, .NET, React, SQL, Unity |
 
 ---
 
